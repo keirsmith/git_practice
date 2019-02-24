@@ -1,0 +1,11 @@
+/home/keir/Documents/If Statements/bin/Debug/netcoreapp2.2/If Statements.deps.json
+/home/keir/Documents/If Statements/bin/Debug/netcoreapp2.2/If Statements.runtimeconfig.json
+/home/keir/Documents/If Statements/bin/Debug/netcoreapp2.2/If Statements.runtimeconfig.dev.json
+/home/keir/Documents/If Statements/bin/Debug/netcoreapp2.2/If Statements.dll
+/home/keir/Documents/If Statements/bin/Debug/netcoreapp2.2/If Statements.pdb
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.csprojAssemblyReference.cache
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.csproj.CoreCompileInputs.cache
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.AssemblyInfoInputs.cache
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.AssemblyInfo.cs
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.dll
+/home/keir/Documents/If Statements/obj/Debug/netcoreapp2.2/If Statements.pdb
